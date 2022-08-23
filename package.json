@@ -1,0 +1,19 @@
+{
+  "name": "sentiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-oauth-client": "^1.5.0",
+    "axios-token-interceptor": "^0.2.0",
+    "dotenv": "^16.0.1",
+    "monkeylearn": "^3.4.0",
+    "twitter-api-sdk": "^1.1.0"
+  }
+}
